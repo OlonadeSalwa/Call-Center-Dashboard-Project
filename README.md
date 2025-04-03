@@ -51,6 +51,8 @@
 - Designed an interactive dashboard incorporating:
   - Bar charts, pie charts, and slicers for sentiment and location-based analysis.
   - KPIs showing total calls, average CSAT score, and response time trends.
+ 
+    ![Call Center Dashboard](images/dashboard.png)
 
 ---
 ## Conclusion & Recommendations
