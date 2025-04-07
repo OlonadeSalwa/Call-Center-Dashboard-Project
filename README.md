@@ -1,4 +1,5 @@
 # Call-Center-Dashboard-Project
+Call Centre Dashboard Using Excel to Visualize key metrics, analyze call performance, and improve decision-making. Data cleaned and visualized with Excel.
 
 ## Dataset Used
 - **Call Center Dataset**
@@ -51,6 +52,8 @@
 - Designed an interactive dashboard incorporating:
   - Bar charts, pie charts, and slicers for sentiment and location-based analysis.
   - KPIs showing total calls, average CSAT score, and response time trends.
+
+![](call_center_dashboard.PNG)
 
 ---
 ## Conclusion & Recommendations
