@@ -1,5 +1,5 @@
 # Call-Center-Dashboard-Project
-Call Centre Dashboard Using Excel to Visualize key metrics, analyze call performance, and improve decision-making. Data cleaned and visualized with Excel.
+This project analyzes 32,941 inbound calls from a call center dataset using Microsoft Excel to uncover customer interaction trends
 
 ## Dataset Used
 - **Call Center Dataset**
@@ -52,8 +52,6 @@ Call Centre Dashboard Using Excel to Visualize key metrics, analyze call perform
 - Designed an interactive dashboard incorporating:
   - Bar charts, pie charts, and slicers for sentiment and location-based analysis.
   - KPIs showing total calls, average CSAT score, and response time trends.
-
-![](call_center_dashboard.PNG)
 
 ---
 ## Conclusion & Recommendations
