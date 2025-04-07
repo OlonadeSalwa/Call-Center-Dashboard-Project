@@ -53,7 +53,7 @@ This project analyzes 32,941 inbound calls from a call center dataset using Micr
   - Bar charts, pie charts, and slicers for sentiment and location-based analysis.
   - KPIs showing total calls, average CSAT score, and response time trends.
 
-View my dashboard [Here](call_center_dashoard)
+View my dashboard [Here](call_center_dashboard.PNG)
 
 ---
 ## Conclusion & Recommendations
